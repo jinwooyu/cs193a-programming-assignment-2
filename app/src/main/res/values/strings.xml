@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="prompt">Enter things to do</string>
+    <string name="toptext">To Do List App</string>
+    <string name="add">Add</string>
+</resources>
